@@ -2,7 +2,7 @@
 
 This is a quick-start project that helps you create Blazor Accordion provided by Syncfusion. This example explains how to create a Blazor application and add the Syncfusion Blazor package. It also shows how to add the Syncfusion Blazor Accordion component to a Blazor server application and demonstrates prominent features like expand modes and customizing Accordion UI using templates.
 
-Watch a How-to Video:
+Watch a How-to Video: https://www.syncfusion.com/tutorial-videos/blazor/accordion?title=create-an-accordion-component-in-a-blazor-server-application
 
 Documentation: https://blazor.syncfusion.com/documentation/accordion/getting-started
 
