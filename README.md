@@ -23,6 +23,7 @@ A single panel or multiple panels can expand or collapse (panel toggle) at a tim
 The collapsible panels support several types of built-in, fancy animation for panel expanding and collapsing actions. Blazor [Animation](https://blazor.syncfusion.com/documentation/accordion/animations?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) behavior is customizable.
 
 ### Content reader mode
+
 Accordion provides support to render the content of all AccordionItem at initial load which will be maintained in DOM. For that, disable the LoadOnDemand property to load all the contents.
 
 ### Collapsible mode
@@ -30,6 +31,7 @@ Accordion provides support to render the content of all AccordionItem at initial
 Collapse all the panels at once. With customization options, a specific panel is set to be in an open state while the rest of the panels are collapsed.
 
 ### Data binding
+
 Accordion component provides an option to get the accordion items from the local data. It can be done through iteration of the Accordion Items using conditional foreach loop. Accordion only supports the local data for [data binding](https://blazor.syncfusion.com/documentation/accordion/data-binding?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples).
 
 ### Icon support
