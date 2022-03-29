@@ -24,7 +24,7 @@ The collapsible panels support several types of built-in, fancy animation for pa
 
 ### Content reader mode
 
-Accordion provides support to render the content of all AccordionItem at initial load which will be maintained in DOM. For that, disable the LoadOnDemand property to load all the contents.
+Accordion provides support to render the content of all AccordionItem at initial load which will be maintained in DOM. For that, disable the Load On Demand property to load all the contents.
 
 ### Collapsible mode
 
