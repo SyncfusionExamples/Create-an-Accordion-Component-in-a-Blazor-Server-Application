@@ -47,7 +47,7 @@ Add prefix icons or images to the panel header. The default expand and collapse 
 
 [Documentation](https://blazor.syncfusion.com/documentation/accordion/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-accordion-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/accordion/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-accordion-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/Create-an-Accordion-Component-in-a-Blazor-Server-Application?utm_source=github&utm_medium=listing&utm_campaign=blazor-accordion-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-accordion-github-samples)
 
