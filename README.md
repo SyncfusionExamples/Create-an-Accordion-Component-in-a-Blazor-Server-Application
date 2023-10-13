@@ -2,11 +2,16 @@
 
 The [Blazor Accordion](https://www.syncfusion.com/blazor-components/blazor-accordion?utm_source=github&utm_medium=listing&utm_campaign=blazor-accordion-github-samples) is a container-based component with vertically collapsible panels (vertical accordion) and stacked headers that expand or collapse one or more panels at a time within the available space. This is a quick-start project that helps you create Blazor Accordion provided by Syncfusion. This example explains how to create a Blazor application and add the Syncfusion Blazor package. It also shows how to add the Syncfusion Blazor Accordion component to a Blazor server application and demonstrates prominent features like expand modes and customizing Accordion UI using templates.
 
-## Project prerequisites
-Make sure that you have compatible versions of .NET Core on your machine before starting to work on this project. You also need the following:
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone or download this ‘Create an Accordion Component in a Blazor Server Application’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 
